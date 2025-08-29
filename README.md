@@ -44,7 +44,7 @@ SportsStore is a sample e-commerce web application built with ASP.NET Core Razor
 
 - **Username:** Admin
 - **Password:** Secret123$
-
+- Navigate to [localhost:5000/Account/Login](http://localhost:5000/Account/Login) for logging in as an admin
 > ⚠️ Change these credentials in production for security.
 
 ## 📁 Project Structure
@@ -55,16 +55,12 @@ SportsStore is a sample e-commerce web application built with ASP.NET Core Razor
 - `Infrastructure/` – Custom helpers and tag helpers.
 - `Data/` – Entity Framework Core context and repositories.
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is available for educational and commercial use.
 
----
+## 🤝 Contributing
 
-**Note:** This project is intended for educational purposes and as a starting point for further development.
+Contributions are welcome! Please feel free to submit a Pull Request.
 
    
